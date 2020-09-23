@@ -1,10 +1,10 @@
 
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://i.pinimg.com/originals/c3/94/49/c39449570d4fd96b49f74df69c8896c2.png" width="60" />
+  <a href="https://www.glinkedin.com/yolichaviano">
+    <img alt="Gatsby" src="https://i.pinimg.com/originals/c3/94/49/c39449570d4fd96b49f74df69c8896c2.png" width="80" />
   </a>
 </p>
-<h1 align="center">
+<h1 align="center" color="#FFBABA>
   Yoli Chaviano - Web Developer
 </h1>
 
